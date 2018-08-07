@@ -23,35 +23,59 @@ http://www.offconvex.org/
 
 ## Meta
 
-Gradient Checkpointing: https://github.com/openai/gradient-checkpointing
+Gradient Checkpointing:
 
-Pretrained Pytorch Models: https://github.com/Cadene/pretrained-models.pytorch
+> Github: https://github.com/openai/gradient-checkpointing
+
+Pretrained Pytorch Models: 
+
+> Github: https://github.com/Cadene/pretrained-models.pytorch
 
 ## NLP
 
 ### Speech Recognition
 
-wav2letter: https://github.com/facebookresearch/wav2letter
+wav2letter:
 
-Deep Speech: https://github.com/mozilla/DeepSpeech
+> Github: https://github.com/facebookresearch/wav2letter
+
+> Paper: https://arxiv.org/abs/1609.03193
+
+Deep Speech:
+
+> Github: https://github.com/mozilla/DeepSpeech
+
+> Paper: https://arxiv.org/abs/1412.5567
 
 ### Word Embeddings
 
-MUSE: https://github.com/facebookresearch/MUSE
+MUSE: 
 
-ELMO: https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md
+> Github: https://github.com/facebookresearch/MUSE
 
-explanation: http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/
+ELMO: 
 
-Fastext: https://github.com/facebookresearch/fastText
+> Github: https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md
+
+> Blog Post: http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/
+
+Fastext: 
+
+> Github: https://github.com/facebookresearch/fastText
 
 ### Language Modeling
 
-Sentiment Discovery: https://github.com/NVIDIA/sentiment-discovery
+Sentiment Discovery:
 
-ULMfit: http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
+> Github: https://github.com/NVIDIA/sentiment-discovery
 
-Transformer Language Modeling: https://github.com/openai/finetune-transformer-lm
+ULMfit:
+
+> Blog Post: http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
+
+Transformer Language Modeling:
+
+> Github: https://github.com/openai/finetune-transformer-lm
 
 ### Translation
 
@@ -65,49 +89,79 @@ Transformer Language Modeling: https://github.com/openai/finetune-transformer-lm
 
 ### Image Captioning
 
-Screenshot to Code: https://github.com/emilwallner/Screenshot-to-code-in-Keras
+Screenshot to Code:
 
-Pix2Code: https://github.com/tonybeltramelli/pix2code
+> Github: https://github.com/emilwallner/Screenshot-to-code-in-Keras
 
-Pix2Pix: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+Pix2Code: 
+
+> Github: https://github.com/tonybeltramelli/pix2code
+
+Pix2Pix: 
+
+> Github: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ### Attention
-Attention Primer: https://github.com/greentfrapp/attention-primer
+Attention Primer: 
+
+> Github: https://github.com/greentfrapp/attention-primer
 
 ### Transformer
-Pytorch Open Ai Transformer: https://github.com/huggingface/pytorch-openai-transformer-lm
+Pytorch Open Ai Transformer:
+
+> Github: https://github.com/huggingface/pytorch-openai-transformer-lm
 
 ## Computer Vision
 
-Detectron: https://github.com/facebookresearch/Detectron
+Detectron: 
 
-Detectron Pytorch: https://github.com/roytseng-tw/Detectron.pytorch
+> Github: https://github.com/facebookresearch/Detectron
+
+Detectron Pytorch:
+
+> Github: https://github.com/roytseng-tw/Detectron.pytorch
 
 ### Video Classification
 
-Non Local Nets: https://github.com/facebookresearch/video-nonlocal-net
+Non Local Nets: 
+
+> Github: https://github.com/facebookresearch/video-nonlocal-net
 
 ### Object Detection
 
 ### Segmentation
 
-Semantic Segmentation Pytorch: https://github.com/CSAILVision/semantic-segmentation-pytorch
+Semantic Segmentation Pytorch: 
 
-Mask RCNN: https://github.com/matterport/Mask_RCNN
+> Github: https://github.com/CSAILVision/semantic-segmentation-pytorch
 
-Pytorch Mask RCNN: https://github.com/multimodallearning/pytorch-mask-rcnn
+Mask RCNN: 
+
+> Github: https://github.com/matterport/Mask_RCNN
+
+Pytorch Mask RCNN:
+
+> Github: https://github.com/multimodallearning/pytorch-mask-rcnn
 
 ### Pose Estimation
 
-Dense Pose: https://github.com/facebookresearch/DensePose
+Dense Pose: 
 
-Open Pose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+> Github: https://github.com/facebookresearch/DensePose
 
-Alpha Pose: https://github.com/MVIG-SJTU/AlphaPose
+Open Pose:
+
+> Github: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+Alpha Pose:
+
+> Github: https://github.com/MVIG-SJTU/AlphaPose
 
 ### Face Recognition
 
-Open Face: https://github.com/cmusatyalab/openface
+Open Face:
+
+> Github: https://github.com/cmusatyalab/openface
 
 ### Siamese Networks
 
@@ -117,67 +171,117 @@ Open Face: https://github.com/cmusatyalab/openface
 
 ### Image to Image Translation
 
-MUNIT: https://github.com/NVlabs/MUNIT
+MUNIT:
+
+> Github: https://github.com/NVlabs/MUNIT
 
 ## Generative Models
 
 ### Flow Based Models
 
-GLOW: https://github.com/openai/glow
+GLOW: 
+
+> Github: https://github.com/openai/glow
 
 ### Neural Style Transfer
 
-Fast Photo Style: https://github.com/NVIDIA/FastPhotoStyle
+Fast Photo Style: 
+
+> Github: https://github.com/NVIDIA/FastPhotoStyle
 
 ### GANs
 
-GAN Zoo: https://github.com/hindupuravinash/the-gan-zoo
+GAN Zoo: 
 
-GAN Awesome Applications: https://github.com/nashory/gans-awesome-applications
+> Github: https://github.com/hindupuravinash/the-gan-zoo
 
-GANs A Modern Perspective: https://medium.com/deep-dimension/gans-a-modern-perspective-83ed64b42f5c
+GAN Awesome Applications: 
 
-Fantastic GANs and Where to Find Them: http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
+> Github: https://github.com/nashory/gans-awesome-applications
 
-Fantastic GANs and Where to Find Them 2: http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II
+GANs A Modern Perspective: 
 
-Gan Hacks: https://github.com/soumith/ganhacks
+> Github: https://medium.com/deep-dimension/gans-a-modern-perspective-83ed64b42f5c
 
-Keras GAN: https://github.com/eriklindernoren/Keras-GAN
+Fantastic GANs and Where to Find Them: 
 
-GANs: https://github.com/diegoalejogm/gans
+> Github: http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
 
-MC-GAN: http://bair.berkeley.edu/blog/2018/03/13/mcgan/
+Fantastic GANs and Where to Find Them 2: 
 
-blog post: http://bair.berkeley.edu/blog/2018/03/13/mcgan/
+> Github: http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II
 
-Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
+Gan Hacks: 
 
-Star GAN: https://github.com/yunjey/StarGAN
+> Github: https://github.com/soumith/ganhacks
 
-Deblur GAN: https://github.com/KupynOrest/DeblurGAN
+Keras GAN: 
 
-Bayes GAN: https://github.com/andrewgordonwilson/bayesgan
+> Github: https://github.com/eriklindernoren/Keras-GAN
 
-Progressive Growing Of GANS: https://github.com/tkarras/progressive_growing_of_gans
+GANs: 
 
-Cycle GAN: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+> Github: https://github.com/diegoalejogm/gans
+
+MC-GAN: 
+
+> Github: https://github.com/azadis/MC-GAN
+
+> Blog Post: http://bair.berkeley.edu/blog/2018/03/13/mcgan/
+
+Pix2Pix HD: 
+
+> Github: https://github.com/NVIDIA/pix2pixHD
+
+Star GAN: 
+
+> Github: https://github.com/yunjey/StarGAN
+
+Deblur GAN: 
+
+> Github: https://github.com/KupynOrest/DeblurGAN
+
+Bayes GAN: 
+
+> Github: https://github.com/andrewgordonwilson/bayesgan
+
+Progressive Growing Of GANS: 
+
+> Github: https://github.com/tkarras/progressive_growing_of_gans
+
+Cycle GAN: 
+
+> Github: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 
 ## Reinforcement Learning
 
-RL Adventure: https://github.com/higgsfield/RL-Adventure
+RL Adventure: 
 
-RL Adventure 2: https://github.com/higgsfield/RL-Adventure-2
+> Github: https://github.com/higgsfield/RL-Adventure
 
-Practical RL: https://github.com/yandexdataschool/Practical_RL
+RL Adventure 2: 
 
-Reinforcement Learning Notebooks: https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebook
+> Github: https://github.com/higgsfield/RL-Adventure-2
 
-Noisy Nets A3C: https://github.com/Kaixhin/NoisyNet-A3C
+Practical RL: 
 
-Deep RL: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
+> Github: https://github.com/yandexdataschool/Practical_RL
 
-Evolution Strategies: https://github.com/openai/evolution-strategies-starter
+Reinforcement Learning Notebooks: 
+
+> Github: https://github.com/Pulkit-Khandelwal/Reinforcement-Learning-Notebook
+
+Noisy Nets A3C: 
+
+> Github: https://github.com/Kaixhin/NoisyNet-A3C
+
+Deep RL: 
+
+> Github: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
+
+Evolution Strategies: 
+
+> Github: https://github.com/openai/evolution-strategies-starter
 
 Shared Autonomy Via Deep Reinforcement Learning:
 
@@ -189,6 +293,10 @@ Shared Autonomy Via Deep Reinforcement Learning:
 
 ## Auto ML
 
-Efficiant NAS Pytorch: https://github.com/carpedm20/ENAS-pytorch
+Efficiant NAS Pytorch: 
 
-AutoKeras: https://github.com/jhfjhfj1/autokeras
+> Github: https://github.com/carpedm20/ENAS-pytorch
+
+AutoKeras: 
+
+> Github: https://github.com/jhfjhfj1/autokeras
