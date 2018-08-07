@@ -13,6 +13,14 @@ https://github.com/RedditSota/state-of-the-art-result-for-machine-learning-probl
 
 https://github.com/syhw/wer_are_we
 
+## Blogs: 
+
+http://bair.berkeley.edu/blog/
+
+http://www.argmin.net/
+
+http://www.offconvex.org/
+
 ## Meta
 
 Gradient Checkpointing: https://github.com/openai/gradient-checkpointing
@@ -25,7 +33,7 @@ Pretrained Pytorch Models: https://github.com/Cadene/pretrained-models.pytorch
 
 wav2letter: https://github.com/facebookresearch/wav2letter
 
-Deep Speach: https://github.com/mozilla/DeepSpeech
+Deep Speech: https://github.com/mozilla/DeepSpeech
 
 ### Word Embeddings
 
@@ -123,11 +131,25 @@ Fast Photo Style: https://github.com/NVIDIA/FastPhotoStyle
 
 ### GANs
 
+GAN Zoo: https://github.com/hindupuravinash/the-gan-zoo
+
+GAN Awesome Applications: https://github.com/nashory/gans-awesome-applications
+
+GANs A Modern Perspective: https://medium.com/deep-dimension/gans-a-modern-perspective-83ed64b42f5c
+
+Fantastic GANs and Where to Find Them: http://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them
+
+Fantastic GANs and Where to Find Them 2: http://guimperarnau.com/blog/2017/11/Fantastic-GANs-and-where-to-find-them-II
+
 Gan Hacks: https://github.com/soumith/ganhacks
 
 Keras GAN: https://github.com/eriklindernoren/Keras-GAN
 
 GANs: https://github.com/diegoalejogm/gans
+
+MC-GAN: http://bair.berkeley.edu/blog/2018/03/13/mcgan/
+
+blog post: http://bair.berkeley.edu/blog/2018/03/13/mcgan/
 
 Pix2Pix HD: https://github.com/NVIDIA/pix2pixHD
 
@@ -156,6 +178,14 @@ Noisy Nets A3C: https://github.com/Kaixhin/NoisyNet-A3C
 Deep RL: https://github.com/AppliedDataSciencePartners/DeepReinforcementLearning
 
 Evolution Strategies: https://github.com/openai/evolution-strategies-starter
+
+Shared Autonomy Via Deep Reinforcement Learning:
+
+> Github: https://github.com/rddy/deepassist
+
+> Paper: https://arxiv.org/abs/1802.01744
+
+> Blog Post: http://bair.berkeley.edu/blog/2018/04/18/shared-autonomy/
 
 ## Auto ML
 
