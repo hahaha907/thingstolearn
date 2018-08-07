@@ -160,3 +160,5 @@ Evolution Strategies: https://github.com/openai/evolution-strategies-starter
 ## Auto ML
 
 Efficiant NAS Pytorch: https://github.com/carpedm20/ENAS-pytorch
+
+AutoKeras: https://github.com/jhfjhfj1/autokeras
