@@ -21,7 +21,7 @@ Pretrained Pytorch Models: https://github.com/Cadene/pretrained-models.pytorch
 
 ## NLP
 
-### Speach Recognition
+### Speech Recognition
 
 wav2letter: https://github.com/facebookresearch/wav2letter
 
@@ -31,24 +31,29 @@ Deep Speach: https://github.com/mozilla/DeepSpeech
 
 MUSE: https://github.com/facebookresearch/MUSE
 
+ELMO: https://github.com/allenai/allennlp/blob/master/tutorials/how_to/elmo.md
+
+explanation: http://mlexplained.com/2018/06/15/paper-dissected-deep-contextualized-word-representations-explained/
+
+Fastext: https://github.com/facebookresearch/fastText
+
 ### Language Modeling
 
 Sentiment Discovery: https://github.com/NVIDIA/sentiment-discovery
 
+ULMfit: http://nlp.fast.ai/classification/2018/05/15/introducting-ulmfit.html
+
+Transformer Language Modeling: https://github.com/openai/finetune-transformer-lm
+
 ### Translation
-SOTA: https://github.com/sebastianruder/NLP-progress/blob/master/machine_translation.md
 
 ### Question Answering
-SOTA: https://github.com/sebastianruder/NLP-progress/blob/master/question_answering.md
 
 ### Sentiment Analysis
-SOTA: https://github.com/sebastianruder/NLP-progress/blob/master/sentiment_analysis.md
 
 ### Textual Similarity
-SOTA: https://github.com/sebastianruder/NLP-progress/blob/master/semantic_textual_similarity.md
 
 ### Text Classification
-SOTA: https://github.com/sebastianruder/NLP-progress/blob/master/text_classification.md
 
 ### Image Captioning
 
@@ -70,29 +75,11 @@ Detectron: https://github.com/facebookresearch/Detectron
 
 Detectron Pytorch: https://github.com/roytseng-tw/Detectron.pytorch
 
-### Siamese Networks
+### Video Classification
 
-### Face Recognition
-
-Open Face: https://github.com/cmusatyalab/openface
+Non Local Nets: https://github.com/facebookresearch/video-nonlocal-net
 
 ### Object Detection
-
-### Visual Tracking
-
-### Pose Estimation
-
-Dense Pose: https://github.com/facebookresearch/DensePose
-
-Open Pose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
-
-Alpha Pose: https://github.com/MVIG-SJTU/AlphaPose
-
-### Neural Style Transfer
-
-Fast Photo Style: https://github.com/NVIDIA/FastPhotoStyle
-
-### Image Colorization
 
 ### Segmentation
 
@@ -102,15 +89,37 @@ Mask RCNN: https://github.com/matterport/Mask_RCNN
 
 Pytorch Mask RCNN: https://github.com/multimodallearning/pytorch-mask-rcnn
 
-### Video Classification
+### Pose Estimation
 
-Non Local Nets: https://github.com/facebookresearch/video-nonlocal-net
+Dense Pose: https://github.com/facebookresearch/DensePose
+
+Open Pose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+
+Alpha Pose: https://github.com/MVIG-SJTU/AlphaPose
+
+### Face Recognition
+
+Open Face: https://github.com/cmusatyalab/openface
+
+### Siamese Networks
+
+### Visual Tracking
+
+### Image Colorization
 
 ### Image to Image Translation
 
 MUNIT: https://github.com/NVlabs/MUNIT
 
 ## Generative Models
+
+### Flow Based Models
+
+GLOW: https://github.com/openai/glow
+
+### Neural Style Transfer
+
+Fast Photo Style: https://github.com/NVIDIA/FastPhotoStyle
 
 ### GANs
 
