@@ -201,6 +201,8 @@ Deep Image Prior
 
 > Blog Post: https://dmitryulyanov.github.io/deep_image_prior
 
+> http://mlexplained.com/2018/01/18/paper-dissected-deep-image-prior-explained/
+
 ### Flow Based Models
 
 GLOW: 
