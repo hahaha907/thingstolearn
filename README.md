@@ -1,6 +1,12 @@
 
 # Things To Learn
 
+## Frameworks:
+
+Pytorch
+
+torchtext
+
 ## SOTA Lists:
 
 https://rodrigob.github.io/are_we_there_yet/build/
@@ -20,6 +26,8 @@ http://bair.berkeley.edu/blog/
 http://www.argmin.net/
 
 http://www.offconvex.org/
+
+http://mlexplained.com
 
 ## Meta
 
@@ -76,6 +84,14 @@ ULMfit:
 Transformer Language Modeling:
 
 > Github: https://github.com/openai/finetune-transformer-lm
+
+Deep Unordered Conpositions:
+
+> Paper: https://www.semanticscholar.org/paper/Deep-Unordered-Composition-Rivals-Syntactic-Methods-Iyyer-Manjunatha/0592c7442b1b0badb1e37d4d0a37dfc33d6aa29f
+
+> Github: https://github.com/miyyer/dan
+
+> Blog Post: http://mlexplained.com/2018/05/11/paper-dissected-deep-unordered-composition-rivals-syntactic-methods-for-text-classification-explained/
 
 ### Translation
 
@@ -176,6 +192,14 @@ MUNIT:
 > Github: https://github.com/NVlabs/MUNIT
 
 ## Generative Models
+
+Deep Image Prior
+
+> Paper: https://arxiv.org/abs/1711.10925
+
+> Github: https://github.com/DmitryUlyanov/deep-image-prior
+
+> Blog Post: https://dmitryulyanov.github.io/deep_image_prior
 
 ### Flow Based Models
 
