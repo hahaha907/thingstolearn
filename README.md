@@ -1,11 +1,23 @@
 
 # Things To Learn
 
+## Miscelaneous:
+
+PCA Whitening
+
+L1/L2 norm/distance/loss
+
+Negative Log Likelyhood
+
 ## Frameworks:
 
 Pytorch
 
 torchtext
+
+FAISS:
+
+> Github: https://github.com/facebookresearch/faiss
 
 ## SOTA Lists:
 
@@ -137,13 +149,113 @@ Detectron Pytorch:
 
 > Github: https://github.com/roytseng-tw/Detectron.pytorch
 
+### Image Retrieval
+
+Kaggle: https://www.kaggle.com/c/landmark-retrieval-challenge
+
+> #1:
+
+> > Blog Post: https://www.kaggle.com/c/landmark-retrieval-challenge/discussion/57855
+
+Generalized Mean Pooling:
+
+> Paper: https://arxiv.org/abs/1711.02512
+
+Query Expansion
+
+MAC:
+
+> Paper: https://arxiv.org/abs/1511.05879
+
+RMAC:
+
+> Paper: https://arxiv.org/abs/1511.05879
+
+> Github: https://github.com/noagarcia/keras_rmac
+
+SPoC:
+
+Paper: https://arxiv.org/abs/1510.07493
+
+DELF:
+
+> Paper: https://arxiv.org/abs/1612.06321
+
+> Github: https://github.com/tensorflow/models/tree/master/research/delf
+
+CNN Image Retrieval:
+
+> Github: https://github.com/filipradenovic/cnnimageretrieval-pytorch
+
+## Visual Relationship Understanding
+
+Large-Scale Visual Relationship Understanding:
+
+Kaggle Google AI Open Images:
+
+> Kaggle: https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track
+
+> #1:
+
+> > Blog Post: https://www.kaggle.com/c/google-ai-open-images-visual-relationship-track/discussion/64651
+
+> > Paper: https://arxiv.org/abs/1804.10660
+
+Visual Relationship Detection with Language Priors:
+
+> Paper: https://arxiv.org/abs/1608.00187
+
+> Github: https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection
+
+> Blog Post: https://cs.stanford.edu/people/ranjaykrishna/vrd/
+
+Visual Relationship Detection with Deep Structural Ranking:
+
+> Paper: https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16491/16300
+
+> Github: https://github.com/GriffinLiang/vrd-dsr
+
 ### Video Classification
+
+Kaggle Youtube 8m Video Understanding Challenge:
+
+> Kaggle: https://www.kaggle.com/c/youtube8m
+
+> #2:
+
+> > Paper: https://arxiv.org/abs/1706.05150
+
+> > Github: https://github.com/wangheda/youtube-8m
+
+NetVLAD:
+
+> Paper: https://arxiv.org/abs/1511.07247
+
+> Github: https://github.com/lyakaap/NetVLAD-pytorch
 
 Non Local Nets: 
 
 > Github: https://github.com/facebookresearch/video-nonlocal-net
 
 ### Object Detection
+
+Blog Posts:
+
+https://skrish13.github.io/articles/2018-03/fair-cv-saga
+
+https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html
+
+Fast RCNN:
+
+Faster RCNN:
+
+Retina Net / Focal Loss for Dense Object Detection:
+
+> Paper: https://arxiv.org/abs/1708.02002
+
+> Github: https://github.com/unsky/RetinaNet
+
+> Blog Post: https://medium.com/@14prakash/the-intuition-behind-retinanet-eb636755607d
 
 ### Segmentation
 
@@ -158,6 +270,52 @@ Mask RCNN:
 Pytorch Mask RCNN:
 
 > Github: https://github.com/multimodallearning/pytorch-mask-rcnn
+
+Mask X RCNN:
+
+> Github: https://github.com/soeaver/Pytorch_Mask_RCNN/
+
+Unet:
+
+> Paper: https://arxiv.org/abs/1505.04597
+
+> Github: https://github.com/milesial/Pytorch-UNet
+
+The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation:
+
+> Paper: https://arxiv.org/pdf/1611.09326.pdf
+
+> Github: https://github.com/bfortuner/pytorch_tiramisu
+
+ENet:
+
+> Paper: https://arxiv.org/abs/1606.02147
+
+> Github: https://github.com/TimoSaemann/ENet
+
+> Blog Post: https://codeac29.github.io/projects/linknet/
+
+Pyramid Scene Parsing Network:
+
+> Paper: https://arxiv.org/abs/1612.01105
+
+> Github: https://github.com/Lextal/pspnet-pytorch
+
+RefineNet:
+
+> Paper: https://arxiv.org/abs/1611.06612
+
+> Github: https://github.com/thomasjpfan/pytorch_refinenet
+
+G-FRNet:
+
+> Paper: http://www.cs.umanitoba.ca/~ywang/papers/cvpr17.pdf
+
+> Paper: https://arxiv.org/pdf/1806.11266.pdf
+
+> Github: https://github.com/mrochan/gfrnet
+
+> Blog Post: https://towardsdatascience.com/cvpr-2017-paper-summary-gated-feedback-refinement-network-for-dense-image-labeling-8746a3e1889b
 
 ### Pose Estimation
 
@@ -319,9 +477,15 @@ Shared Autonomy Via Deep Reinforcement Learning:
 
 ## Auto ML
 
-Efficiant NAS Pytorch: 
+Efficient NAS Pytorch: 
 
 > Github: https://github.com/carpedm20/ENAS-pytorch
+
+MnasNet:
+
+> Paper: https://arxiv.org/abs/1807.11626
+
+> Blog Post: https://ai.googleblog.com/2018/08/mnasnet-towards-automating-design-of.html?m=1
 
 AutoKeras: 
 
