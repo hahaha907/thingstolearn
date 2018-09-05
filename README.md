@@ -25,6 +25,12 @@ Lovasz-Softmax Loss:
 
 > Blog Post: https://medium.com/neuromation-io-blog/deepglobe-challenge-three-papers-from-neuromation-accepted-fe09a1a7fa53
 
+CRF
+
+> Paper: https://arxiv.org/abs/1805.04777
+
+> Blog Post: https://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/
+
 ## Frameworks:
 
 Pytorch
