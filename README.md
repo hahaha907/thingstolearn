@@ -7,7 +7,23 @@ PCA Whitening
 
 L1/L2 norm/distance/loss
 
-Negative Log Likelyhood
+Negative Log Likelihood
+
+Stochastic Weight averaging:
+
+> Paper: https://arxiv.org/abs/1803.05407
+
+> Github: https://github.com/kristpapadopoulos/keras-stochastic-weight-averaging
+
+> Blog Post: https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a
+
+Lovasz-Softmax Loss:
+
+> Paper: https://arxiv.org/abs/1705.08790
+
+> Github: https://github.com/bermanmaxim/LovaszSoftmax
+
+> Blog Post: https://medium.com/neuromation-io-blog/deepglobe-challenge-three-papers-from-neuromation-accepted-fe09a1a7fa53
 
 ## Frameworks:
 
@@ -149,6 +165,14 @@ Detectron Pytorch:
 
 > Github: https://github.com/roytseng-tw/Detectron.pytorch
 
+Squeeze and Excitation Networks:
+
+> Paper: https://arxiv.org/abs/1709.01507
+
+> Github: https://github.com/hujie-frank/SENet
+
+> Blog Post: https://towardsdatascience.com/squeeze-and-excitation-networks-9ef5e71eacd7
+
 ### Image Retrieval
 
 Kaggle: https://www.kaggle.com/c/landmark-retrieval-challenge
@@ -244,6 +268,8 @@ Blog Posts:
 https://skrish13.github.io/articles/2018-03/fair-cv-saga
 
 https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html
+
+https://medium.com/neuromation-io-blog/deepglobe-challenge-three-papers-from-neuromation-accepted-fe09a1a7fa53
 
 Fast RCNN:
 
