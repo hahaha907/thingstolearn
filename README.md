@@ -343,6 +343,14 @@ G-FRNet:
 
 > Blog Post: https://towardsdatascience.com/cvpr-2017-paper-summary-gated-feedback-refinement-network-for-dense-image-labeling-8746a3e1889b
 
+ESPNet:
+
+> Paper: https://arxiv.org/abs/1803.06815
+
+> Github: https://github.com/sacmehta/ESPNet
+
+Hypercolumns
+
 ### Pose Estimation
 
 Dense Pose: 
