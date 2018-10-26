@@ -9,22 +9,6 @@ L1/L2 norm/distance/loss
 
 Negative Log Likelihood
 
-Stochastic Weight averaging:
-
-> Paper: https://arxiv.org/abs/1803.05407
-
-> Github: https://github.com/kristpapadopoulos/keras-stochastic-weight-averaging
-
-> Blog Post: https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a
-
-Lovasz-Softmax Loss:
-
-> Paper: https://arxiv.org/abs/1705.08790
-
-> Github: https://github.com/bermanmaxim/LovaszSoftmax
-
-> Blog Post: https://medium.com/neuromation-io-blog/deepglobe-challenge-three-papers-from-neuromation-accepted-fe09a1a7fa53
-
 CRF
 
 > Paper: https://arxiv.org/abs/1805.04777
@@ -72,6 +56,16 @@ Gradient Checkpointing:
 Pretrained Pytorch Models: 
 
 > Github: https://github.com/Cadene/pretrained-models.pytorch
+
+## Training
+
+Stochastic Weight averaging:
+
+> Paper: https://arxiv.org/abs/1803.05407
+
+> Github: https://github.com/kristpapadopoulos/keras-stochastic-weight-averaging
+
+> Blog Post: https://towardsdatascience.com/stochastic-weight-averaging-a-new-way-to-get-state-of-the-art-results-in-deep-learning-c639ccf36a
 
 ## NLP
 
@@ -312,6 +306,14 @@ Unet:
 > Paper: https://arxiv.org/abs/1505.04597
 
 > Github: https://github.com/milesial/Pytorch-UNet
+
+Lovasz-Softmax Loss:
+
+> Paper: https://arxiv.org/abs/1705.08790
+
+> Github: https://github.com/bermanmaxim/LovaszSoftmax
+
+> Blog Post: https://medium.com/neuromation-io-blog/deepglobe-challenge-three-papers-from-neuromation-accepted-fe09a1a7fa53
 
 The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation:
 
