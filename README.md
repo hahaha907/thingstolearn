@@ -9,12 +9,6 @@ L1/L2 norm/distance/loss
 
 Negative Log Likelihood
 
-CRF
-
-> Paper: https://arxiv.org/abs/1805.04777
-
-> Blog Post: https://warmspringwinds.github.io/tensorflow/tf-slim/2016/12/18/image-segmentation-with-tensorflow-using-cnns-and-conditional-random-fields/
-
 ## Frameworks:
 
 Pytorch
