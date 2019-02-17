@@ -9,6 +9,12 @@ L1/L2 norm/distance/loss
 
 Negative Log Likelihood
 
+Multiprocessing
+
+C++
+
+Distributed training
+
 ## Frameworks:
 
 Pytorch
