@@ -69,6 +69,32 @@ Stochastic Weight averaging:
 
 ## NLP
 
+### Image Captioning
+
+Show, Attend and Tell Neural Image Caption Generation with Visual Attention:
+
+> Paper: https://arxiv.org/pdf/1502.03044.pdf
+
+> Github: https://github.com/kelvinxu/arctic-captions
+
+### Math handwriting recognition
+
+Image to markup generation with coarse to fine attention:
+
+> Paper: https://arxiv.org/pdf/1609.04938.pdf
+
+> Github: https://github.com/harvardnlp/im2markup
+
+Multi scale attention with dense encoder:
+
+> Paper: https://arxiv.org/abs/1801.03530
+
+> Github: https://github.com/JianshuZhang/WAP
+
+Training an End-to-End System for Handwritten Mathematical Expression Recognition by Generated Patterns:
+
+> Paper: http://web.tuat.ac.jp/~nakagawa/pub/2017/pdf/ICDAR2017-(Training_an_End-to-End_System_for_Handwritten_Mathematical_expressions_by_generated_patterns).pdf
+
 ### Speech Recognition
 
 wav2letter:
