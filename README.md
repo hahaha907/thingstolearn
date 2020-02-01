@@ -558,3 +558,7 @@ MnasNet:
 AutoKeras: 
 
 > Github: https://github.com/jhfjhfj1/autokeras
+
+## Author
+
+Bilal Khan (https://bilal.software)
